@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+body {
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+div#interface {
+    width: 850px;
+    height: 1230px;
+    background-color: #ffffff;
+    margin: 0px auto 0px auto;
+    padding: 20px;
+}
+header#cabecalho {
+    font-family: 'Calreg', sans-serif;
+    font-size: 12pt;
+    text-align: justify;
+}
+header#cabecalho h2 {
+    font-family: 'Calbold', sans-serif;
+    font-weight: 800;
+    font-size: 11pt;
+    text-align: center;
+}
+h1 { font-family: Calibri;
+    font-size: 12pt;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+p {
+    font-family: Arial;
+    font-size: 11pt;
+    text-indent: 0em;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 1;
+}
+#rodape {
+    font-size: 8pt;
+    text-align: center;
+    color: blue;
+}
+#form {
+    border: 2px solid black;
+    padding: 6pt;
+    font-family: arial, sans-serif;
+    font-size: 12pt;
+    text-indent: 2em;
+   }
+#clausula {
+    font-family: Calibri;
+    font-size: 10pt;
+    text-align: justify;
+}
+hr.class-1 {
+    border-top: 2px solid black;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.c0{
+    color:#000000
+}
+.c6{
+    font-family: Calibri;
+    font-size: 14pt;
+    font-weight:600;
+    font-family:"Calibri"
+    font-size: 18pt;
+    text-align: center;
+}
+.c7{
+    font-family:"Calibri";
+    font-weight:700
+}
+.c31{
+    margin-left:107.3pt;
+    padding-top:6.9pt;
+    padding-bottom:0pt;
+    line-height:1.0041666666666667;
+    text-align:center;
+    margin-right:122.2pt
+}
+p.rod {
+    font-family: Calibri;
+    font-size: 8pt;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+p.form {
+    text-indent: 2em;
+    padding-left: 2em;
+}
+input[type=funci] {
+    width: 150px;
+    height: 15px;
+}
+input[type=Autor] {
+    width: 150px;
+    height: 20px;
+}
+input[type=paci] {
+    width: 500px;
+    height: 20px;
+}
+input[type=end] {
+    width: 400px;
+    height: 20px;
+}
+input[type=numer] {
+    width: 45px;
+    height: 20px;
+}
+input[type=compl] {
+    width: 80px;
+    height: 20px;
+}
+input[type=bar] {
+    width: 300px;
+    height: 20px;
+}
+input#print {
+    position: relative;
+    left: 790px;
+}
